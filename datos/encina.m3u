@@ -78,4 +78,12 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV", Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 ,Canal Sur Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+#EXTINF:-1 ,Canal Sur Andalucía
+https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+#EXTINF:-1 ,Andalucía Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 ,Andalucía Turismo
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 
