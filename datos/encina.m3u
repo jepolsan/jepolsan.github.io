@@ -1,10 +1,16 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://i.imgur.com/BNqZwxS.png", Pequeradio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png",Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200"  group-title="General",Infantil (Canal Extremadura)
+https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="General",Toros (Canal Extremadura)
+https://cdn-canalextremadura.watchity.net/fast1/master.m3u8
+
+#EXTINF:-1 tvg-id="WOWTV.sv@SD" tvg-logo="https://i.imgur.com/dHxaWyp.png" group-title="General",WOW TV (1080p)
+https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Microvision10.do" tvg-logo="https://i.imgur.com/wMl1fNZ.png",Microvision 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
@@ -31,11 +37,6 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-logo="https://i.imgur.com/QSUOxtM.png",Canal Málaga RTV (720p) [Not 24/7]
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SolTV.gt" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png",Sol TV (720p)
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-logo="https://i.imgur.com/KUpgeOf.png",TeleSUR Costa Rica (720p) [Not 24/7]
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
 #EXTINF:-1 tvg-id="VisionTV.gt" tvg-logo="https://i.imgur.com/S0JrfIl.png",Visión TV (720p)
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
@@ -56,7 +57,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/spektramusictv/picture?width=200&height=200" tvg-name="Spektra TV España",Spektra TV España
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimeVision.es@SD" tvg-logo="https://i.imgur.com/pUpKznl.png",Anime Vision SD
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD" tvg-logo="https://i.imgur.com/mTaiEE1.png",Anime Vision Classics SD
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200",Portal Foxmix Chile
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
